@@ -1,0 +1,623 @@
+2026-04-15 22:51:33,723 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-15 22:51:33,730 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 22:51:33,731 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-15 22:51:33,735 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 22:51:33,735 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-15 22:51:33,738 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-15 22:51:33,740 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-15 22:51:33,741 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-15 22:51:33,746 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-15 22:51:34,258 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-15 22:51:37,741 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:37,745 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-15 22:51:43,494 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,495 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-15 22:51:43,516 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,517 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-15 22:51:43,524 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,524 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-15 22:51:43,547 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,547 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-15 22:51:43,552 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,554 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-15 22:51:43,568 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,569 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-15 22:51:43,623 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,624 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-15 22:51:43,628 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,629 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-15 22:51:43,634 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,634 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-15 22:51:43,648 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,648 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-15 22:51:43,653 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,653 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-15 22:51:43,668 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,668 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-15 22:51:43,678 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,679 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-15 22:51:43,683 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,683 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-15 22:51:43,693 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,694 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-15 22:51:43,698 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,698 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-15 22:51:43,709 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 22:51:43,709 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-15 23:08:32,692 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-15 23:08:32,712 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:08:32,714 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-15 23:08:32,725 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:08:32,726 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-15 23:08:32,731 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-15 23:08:32,733 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-15 23:08:32,736 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-15 23:08:32,746 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-15 23:08:33,258 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-15 23:08:36,681 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:36,689 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-15 23:08:50,358 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,361 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-15 23:08:50,422 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,423 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-15 23:08:50,446 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,446 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-15 23:08:50,454 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,454 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-15 23:08:50,467 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,467 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-15 23:08:50,484 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,484 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-15 23:08:50,501 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,501 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-15 23:08:50,512 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,512 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-15 23:08:50,526 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,526 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-15 23:08:50,532 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,532 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-15 23:08:50,539 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,539 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-15 23:08:50,544 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,544 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-15 23:08:50,565 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,565 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-15 23:08:50,568 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,568 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-15 23:08:50,575 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,575 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-15 23:08:50,578 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,578 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-15 23:08:50,587 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:08:50,587 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-15 23:22:13,941 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-15 23:22:13,962 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:22:13,962 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-15 23:22:13,972 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:22:13,974 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-15 23:22:13,980 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-15 23:22:13,981 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-15 23:22:13,987 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-15 23:22:13,997 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-15 23:22:14,488 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-15 23:22:17,702 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:17,704 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-15 23:22:19,349 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,349 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-15 23:22:19,378 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,379 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-15 23:22:19,389 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,389 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-15 23:22:19,405 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,405 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-15 23:22:19,416 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,416 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-15 23:22:19,424 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,424 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-15 23:22:19,464 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,464 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-15 23:22:19,477 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,478 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-15 23:22:19,492 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,492 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-15 23:22:19,507 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,507 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-15 23:22:19,513 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,513 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-15 23:22:19,533 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,533 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-15 23:22:19,548 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,548 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-15 23:22:19,566 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,566 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-15 23:22:19,577 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,577 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-15 23:22:19,583 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,583 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-15 23:22:19,589 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:22:19,589 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-15 23:27:11,457 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-15 23:27:11,471 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:27:11,473 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-15 23:27:11,480 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:27:11,480 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-15 23:27:11,485 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-15 23:27:11,486 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-15 23:27:11,487 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-15 23:27:11,494 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-15 23:27:12,035 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-15 23:27:15,370 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:15,374 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-15 23:27:16,807 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,807 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-15 23:27:16,815 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,815 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-15 23:27:16,836 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,836 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-15 23:27:16,844 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,844 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-15 23:27:16,856 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,856 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-15 23:27:16,872 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,872 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-15 23:27:16,890 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,893 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-15 23:27:16,940 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,940 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-15 23:27:16,953 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,953 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-15 23:27:16,986 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,986 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-15 23:27:16,995 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:16,995 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-15 23:27:17,001 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,001 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-15 23:27:17,007 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,007 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-15 23:27:17,013 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,013 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-15 23:27:17,019 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,019 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-15 23:27:17,121 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,121 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-15 23:27:17,140 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:27:17,140 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-15 23:45:48,307 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-15 23:45:48,313 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:45:48,314 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-15 23:45:48,317 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-15 23:45:48,317 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-15 23:45:48,319 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-15 23:45:48,321 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-15 23:45:48,323 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-15 23:45:48,327 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-15 23:45:48,900 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-15 23:45:51,633 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:51,635 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-15 23:45:53,186 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,186 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-15 23:45:53,196 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,197 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-15 23:45:53,201 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,201 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-15 23:45:53,266 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,266 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-15 23:45:53,284 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,284 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-15 23:45:53,288 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,288 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-15 23:45:53,293 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,293 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-15 23:45:53,307 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,307 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-15 23:45:53,311 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,312 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-15 23:45:53,319 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,320 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-15 23:45:53,330 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,330 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-15 23:45:53,337 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,337 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-15 23:45:53,341 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,341 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-15 23:45:53,345 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,345 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-15 23:45:53,355 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,356 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-15 23:45:53,367 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,367 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-15 23:45:53,372 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-15 23:45:53,372 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-16 06:18:00,441 [Worker-Main-2] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_1
+2026-04-16 06:18:03,676 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_1
+2026-04-16 06:18:17,578 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_1
+2026-04-16 06:19:13,580 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:wishing_well_set_2
+2026-04-16 06:19:13,584 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:wishing_well_set_1
+2026-04-16 06:19:19,235 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:wishing_well_set_2
+2026-04-16 06:19:19,235 [Worker-Main-3] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:wishing_well_set_1
+2026-04-16 06:21:23,171 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_creeper_set_1
+2026-04-16 06:21:23,172 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_2
+2026-04-16 06:21:23,186 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_creeper_set_1
+2026-04-16 06:21:23,186 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_2
+2026-04-16 06:21:28,338 [Worker-Main-2] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_creeper_set_1
+2026-04-16 06:21:28,338 [Worker-Main-2] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_2
+2026-04-16 06:21:28,365 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_creeper_set_1
+2026-04-16 06:21:28,366 [Worker-Main-11] INFO treasure2 | SpawnerProcessor.java:81 | found mobSet -> treasure2:small_dungeon_set_2
+2026-04-17 00:01:12,195 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-17 00:01:12,202 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-17 00:01:12,202 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-17 00:01:12,205 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-17 00:01:12,205 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-17 00:01:12,207 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-17 00:01:12,209 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-17 00:01:12,210 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-17 00:01:12,214 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-17 00:01:12,655 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-17 00:01:15,752 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:15,754 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-17 00:01:17,093 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,093 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-17 00:01:17,101 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,104 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-17 00:01:17,200 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,201 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-17 00:01:17,227 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,227 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-17 00:01:17,250 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,251 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-17 00:01:17,301 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,301 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-17 00:01:17,336 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,337 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-17 00:01:17,343 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,343 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-17 00:01:17,363 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,363 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-17 00:01:17,370 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,370 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-17 00:01:17,376 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,376 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-17 00:01:17,391 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,391 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-17 00:01:17,397 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,398 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-17 00:01:17,404 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,404 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-17 00:01:17,416 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,416 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-17 00:01:17,423 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,423 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-17 00:01:17,442 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:01:17,442 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-17 00:40:31,867 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-17 00:40:31,881 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-17 00:40:31,882 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-17 00:40:31,885 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-17 00:40:31,885 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-17 00:40:31,887 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-17 00:40:31,889 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-17 00:40:31,901 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-17 00:40:31,911 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-17 00:40:32,337 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-17 00:40:35,491 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:35,493 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-17 00:40:37,214 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,215 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-17 00:40:37,219 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,219 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-17 00:40:37,228 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,228 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-17 00:40:37,241 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,241 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-17 00:40:37,299 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,299 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-17 00:40:37,302 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,302 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-17 00:40:37,308 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,308 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-17 00:40:37,319 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,319 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-17 00:40:37,322 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,322 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-17 00:40:37,325 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,326 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-17 00:40:37,328 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,328 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-17 00:40:37,331 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,331 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-17 00:40:37,341 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,341 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-17 00:40:37,349 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,350 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-17 00:40:37,353 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,353 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-17 00:40:37,362 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,362 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-17 00:40:37,367 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-17 00:40:37,367 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-22 19:51:50,926 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-22 19:51:50,951 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-22 19:51:50,951 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-22 19:51:50,959 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-22 19:51:50,960 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-22 19:51:50,971 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-22 19:51:50,984 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-22 19:51:50,991 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-22 19:51:51,006 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-22 19:51:51,476 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-22 19:51:54,553 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:54,556 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-22 19:51:56,021 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,021 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-22 19:51:56,028 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,028 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-22 19:51:56,044 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,044 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-22 19:51:56,059 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,059 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-22 19:51:56,118 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,118 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-22 19:51:56,122 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,122 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-22 19:51:56,135 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,135 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-22 19:51:56,152 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,152 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-22 19:51:56,160 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,160 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-22 19:51:56,171 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,172 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-22 19:51:56,185 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,186 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-22 19:51:56,191 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,191 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-22 19:51:56,202 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,202 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-22 19:51:56,215 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,215 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-22 19:51:56,219 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,219 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-22 19:51:56,233 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,233 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-22 19:51:56,241 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 19:51:56,241 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-22 20:00:08,582 [Server thread] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-22 20:00:08,587 [Server thread] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 7 rarity weight.
+2026-04-22 20:00:08,587 [Server thread] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-22 20:00:08,587 [Server thread] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 7 rarity weight.
+2026-04-22 20:00:08,587 [Server thread] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-22 20:00:08,587 [Server thread] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-22 20:00:08,588 [Server thread] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-22 20:00:08,588 [Server thread] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-22 20:00:08,589 [Server thread] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-22 20:00:08,671 [Server thread] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-22 21:56:47,093 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-22 21:56:47,102 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-22 21:56:47,102 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-22 21:56:47,106 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-22 21:56:47,106 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-22 21:56:47,108 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-22 21:56:47,110 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-22 21:56:47,111 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-22 21:56:47,116 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-22 21:56:47,848 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-22 21:56:51,740 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:51,742 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-22 21:56:54,042 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,043 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-22 21:56:54,070 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,070 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-22 21:56:54,094 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,094 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-22 21:56:54,112 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,114 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-22 21:56:54,135 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,137 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-22 21:56:54,148 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,148 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-22 21:56:54,188 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,188 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-22 21:56:54,213 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,213 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-22 21:56:54,219 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,219 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-22 21:56:54,225 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,225 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-22 21:56:54,232 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,232 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-22 21:56:54,255 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,256 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-22 21:56:54,262 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,262 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-22 21:56:54,268 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,268 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-22 21:56:54,280 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,281 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-22 21:56:54,298 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,298 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-22 21:56:54,388 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-22 21:56:54,388 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-23 00:40:46,922 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-23 00:40:46,931 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-23 00:40:46,931 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-23 00:40:46,935 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-23 00:40:46,935 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-23 00:40:46,937 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-23 00:40:46,939 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-23 00:40:46,940 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-23 00:40:46,945 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-23 00:40:47,362 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-23 00:40:50,564 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:50,567 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-23 00:40:52,346 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,346 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-23 00:40:52,353 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,353 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-23 00:40:52,361 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,361 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-23 00:40:52,374 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,375 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-23 00:40:52,391 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,391 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-23 00:40:52,398 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,398 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-23 00:40:52,405 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,406 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-23 00:40:52,416 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,416 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-23 00:40:52,426 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,426 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-23 00:40:52,434 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,434 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-23 00:40:52,442 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,442 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-23 00:40:52,448 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,448 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-23 00:40:52,456 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,456 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-23 00:40:52,475 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,476 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-23 00:40:52,492 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,492 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-23 00:40:52,567 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,567 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-23 00:40:52,571 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 00:40:52,571 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-23 01:32:14,006 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-23 01:32:14,017 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-23 01:32:14,018 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-23 01:32:14,025 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-23 01:32:14,027 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-23 01:32:14,029 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-23 01:32:14,031 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-23 01:32:14,033 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-23 01:32:14,043 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-23 01:32:14,437 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-23 01:32:17,273 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:17,275 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-23 01:32:18,595 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,595 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-23 01:32:18,607 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,608 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-23 01:32:18,627 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,627 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-23 01:32:18,633 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,634 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-23 01:32:18,763 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,763 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-23 01:32:18,775 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,775 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-23 01:32:18,779 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,779 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-23 01:32:18,783 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,783 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-23 01:32:18,792 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,792 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-23 01:32:18,795 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,795 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-23 01:32:18,798 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,798 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-23 01:32:18,800 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,800 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-23 01:32:18,830 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,830 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-23 01:32:18,869 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,871 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-23 01:32:18,891 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,892 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-23 01:32:18,914 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,914 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-23 01:32:18,924 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-23 01:32:18,927 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-26 16:23:04,510 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-26 16:23:04,518 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-26 16:23:04,518 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-26 16:23:04,523 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-26 16:23:04,523 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-26 16:23:04,525 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-26 16:23:04,527 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-26 16:23:04,528 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-26 16:23:04,533 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-26 16:23:05,106 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-26 16:23:08,534 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:08,536 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-26 16:23:10,450 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,450 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-26 16:23:10,464 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,464 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-26 16:23:10,544 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,544 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-26 16:23:10,556 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,556 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-26 16:23:10,569 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,569 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-26 16:23:10,580 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,581 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-26 16:23:10,587 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,588 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit
+2026-04-26 16:23:10,591 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,591 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-26 16:23:10,606 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,608 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-26 16:23:10,616 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,616 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-26 16:23:10,631 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,631 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-26 16:23:10,636 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,636 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-26 16:23:10,640 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,640 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-26 16:23:10,653 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,653 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-26 16:23:10,661 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,661 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-26 16:23:10,678 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,678 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-26 16:23:10,685 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:23:10,685 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-26 16:30:12,563 [main] INFO treasure2 | RarityWeightDataHandler.java:67 | loading rarity weights from data packs...
+2026-04-26 16:30:12,576 [main] INFO treasure2 | RarityWeightDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-26 16:30:12,577 [main] INFO treasure2 | RarityOrderSetDataHandler.java:64 | loading rarity order sets from data packs...
+2026-04-26 16:30:12,585 [main] INFO treasure2 | RarityOrderSetDataHandler.java:92 | loaded 0 rarity weight.
+2026-04-26 16:30:12,586 [main] INFO treasure2 | RarityLootTableAssociationDataHandler.java:64 | loading rarity loot table associations from data packs...
+2026-04-26 16:30:12,588 [main] INFO treasure2 | RarityItemAssociationDataHandler.java:62 | loading rarity item associations from data packs...
+2026-04-26 16:30:12,592 [main] INFO treasure2 | RarityBlockAssociationDataHandler.java:62 | loading rarity block associations from data packs...
+2026-04-26 16:30:12,593 [main] INFO treasure2 | MobSetDataHandler.java:67 | loading mobsets from data packs...
+2026-04-26 16:30:12,605 [main] INFO treasure2 | ChestSubprocessorDataHandler.java:66 | loading chest subprocessors from data packs...
+2026-04-26 16:30:13,397 [main] INFO treasure2 | TreasureTags.java:195 | in tags updated event
+2026-04-26 16:30:16,351 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:16,353 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:overworld
+2026-04-26 16:30:17,873 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:17,873 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio
+2026-04-26 16:30:17,881 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:17,881 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon_orbit
+2026-04-26 16:30:17,901 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:17,901 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_nether
+2026-04-26 16:30:17,906 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:17,907 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury_orbit
+2026-04-26 16:30:18,072 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,072 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus
+2026-04-26 16:30:18,091 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,091 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:triassic
+2026-04-26 16:30:18,097 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,099 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:jurassic
+2026-04-26 16:30:18,125 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,125 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:moon
+2026-04-26 16:30:18,154 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,155 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mercury
+2026-04-26 16:30:18,184 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,184 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars
+2026-04-26 16:30:18,190 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,190 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:earth_orbit
+2026-04-26 16:30:18,232 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,232 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension gamma_creatures:gamma_dimension
+2026-04-26 16:30:18,235 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,235 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension prehistoricfauna:cretaceous
+2026-04-26 16:30:18,238 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,238 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:mars_orbit
+2026-04-26 16:30:18,251 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,251 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension minecraft:the_end
+2026-04-26 16:30:18,257 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,257 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:venus_orbit
+2026-04-26 16:30:18,260 [Server thread] INFO treasure2 | WorldEventHandler.java:46 | In world load event
+2026-04-26 16:30:18,261 [Server thread] INFO treasure2 | WorldEventHandler.java:56 | In world load event for dimension ad_astra:glacio_orbit

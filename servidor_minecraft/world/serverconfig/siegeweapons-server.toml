@@ -1,0 +1,52 @@
+
+#Siege Weapons Config:
+["Siege Weapons"]
+	#
+	#Health a catapult has.
+	#	(takes effect after restart)
+	#	default: 600
+	#Range: 0.0 ~ 1453.0
+	catapultHealth = 600.0
+	#
+	#Damage a catapult cobblestone projectile makes.
+	#	(takes effect after restart)
+	#	default: 65
+	#Range: 0.0 ~ 1453.0
+	catapultCobbleDamage = 65.0
+	#
+	#Destruction a catapult cobblestone projectile makes. Reference: 4 = TNT-Block
+	#	(takes effect after restart)
+	#	default: 2.5
+	#Range: 0.0 ~ 1453.0
+	catapultCobbleDestruction = 2.5
+	#
+	#Damage a catapult cobblestone cluster projectile makes.
+	#	(takes effect after restart)
+	#	default: 25
+	#Range: 0.0 ~ 1453.0
+	catapultCobbleClusterDamage = 25.0
+	#
+	#Radius of blocks a fire pot ignites the area.
+	#	(takes effect after restart)
+	#	default: 2
+	#Range: 0 ~ 1453
+	firePotRange = 2
+	#
+	#Destruction of blocks a fire pot explodes the area on impact. Reference: 4 = TNT-Block
+	#	(takes effect after restart)
+	#	default: 3.5
+	#Range: 0.0 ~ 1453.0
+	explosionPotDestruction = 3.5
+	#
+	#Health a Ballista has.
+	#	(takes effect after restart)
+	#	default: 200
+	#Range: 0.0 ~ 1453.0
+	ballistaHealth = 200.0
+	#
+	#Damage a ballista projectile makes.
+	#	(takes effect after restart)
+	#	default: 20
+	#Range: 0.0 ~ 1453.0
+	ballistaProjectileDamage = 20.0
+
